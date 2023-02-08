@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://walthamtaro.github.io/python/blog</id>
+    <title>python para principiantes Blog</title>
+    <updated>2023-01-31T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://walthamtaro.github.io/python/blog"/>
+    <subtitle>python para principiantes Blog</subtitle>
+    <icon>https://walthamtaro.github.io/python/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[¿y esto que es?]]></title>
+        <id>https://walthamtaro.github.io/python/blog/el-curso</id>
+        <link href="https://walthamtaro.github.io/python/blog/el-curso"/>
+        <updated>2023-01-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Esto es el curso-taller de programación en Python para newbies (principiantes). Este taller no es una asignatura, no se aprueba con calificaciones pero si tiene valor curricular: es un crédito complementario aunque opcional. Esto significa que puedes tomarlo o puedes hacer otra cosa que cubra los requirimientos del crédito asociado y todo estará bien.]]></summary>
+        <content type="html"><![CDATA[<p>Esto es el curso-taller de programación en Python para newbies (principiantes). Este taller no es una asignatura, no se aprueba con calificaciones pero si tiene valor curricular: <strong>es un crédito complementario</strong> aunque opcional. Esto significa que puedes tomarlo o puedes hacer otra cosa que cubra los requirimientos del crédito asociado y todo estará bien.</p><p>Si eliges formar parte de este curso-taller estarás formando parte de la <strong>primera generación que estudia programación sin que sea obligatorio</strong>. Parece poco pero dice mucho. </p><p>Al mismo tiempo, este taller es nuestra primera prueba con miras a la formación del club de programadores de ISC. Esta es una idea que alumnos como ustedes propusieron tiempo atrás pero que la pandemia no nos permitió llevarlo a cabo. </p><p>Así que este taller estará en constante cambio durante este semestre con la intención de encontrar el tono correcto para que ustedes quieran formar parte de él porque les atraiga y no porque deban hacerlo.</p><p>Espero que nos ayudes a lograrlo.</p>]]></content>
+        <author>
+            <name>Walter Iván Manzanilla Yuit</name>
+        </author>
+        <category label="hola" term="hola"/>
+        <category label="curso" term="curso"/>
+        <category label="taller" term="taller"/>
+        <category label="python" term="python"/>
+    </entry>
+</feed>

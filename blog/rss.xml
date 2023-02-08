@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>python para principiantes Blog</title>
+        <link>https://walthamtaro.github.io/python/blog</link>
+        <description>python para principiantes Blog</description>
+        <lastBuildDate>Tue, 31 Jan 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>es</language>
+        <item>
+            <title><![CDATA[¿y esto que es?]]></title>
+            <link>https://walthamtaro.github.io/python/blog/el-curso</link>
+            <guid>https://walthamtaro.github.io/python/blog/el-curso</guid>
+            <pubDate>Tue, 31 Jan 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Esto es el curso-taller de programación en Python para newbies (principiantes). Este taller no es una asignatura, no se aprueba con calificaciones pero si tiene valor curricular: es un crédito complementario aunque opcional. Esto significa que puedes tomarlo o puedes hacer otra cosa que cubra los requirimientos del crédito asociado y todo estará bien.]]></description>
+            <content:encoded><![CDATA[<p>Esto es el curso-taller de programación en Python para newbies (principiantes). Este taller no es una asignatura, no se aprueba con calificaciones pero si tiene valor curricular: <strong>es un crédito complementario</strong> aunque opcional. Esto significa que puedes tomarlo o puedes hacer otra cosa que cubra los requirimientos del crédito asociado y todo estará bien.</p><p>Si eliges formar parte de este curso-taller estarás formando parte de la <strong>primera generación que estudia programación sin que sea obligatorio</strong>. Parece poco pero dice mucho. </p><p>Al mismo tiempo, este taller es nuestra primera prueba con miras a la formación del club de programadores de ISC. Esta es una idea que alumnos como ustedes propusieron tiempo atrás pero que la pandemia no nos permitió llevarlo a cabo. </p><p>Así que este taller estará en constante cambio durante este semestre con la intención de encontrar el tono correcto para que ustedes quieran formar parte de él porque les atraiga y no porque deban hacerlo.</p><p>Espero que nos ayudes a lograrlo.</p>]]></content:encoded>
+            <category>hola</category>
+            <category>curso</category>
+            <category>taller</category>
+            <category>python</category>
+        </item>
+    </channel>
+</rss>
